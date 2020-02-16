@@ -1,0 +1,1355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="08a1a29a-9efc-409b-a926-6b88f79950c1" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/test2$Solution4.ic" NAME="Solution4 Coverage Results" MODIFIED="1539825319010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="0" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="203" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="test2" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Interface" />
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>*</find>
+      <find>L0</find>
+      <find>hash</find>
+      <find>hashCode</find>
+      <find>segment</find>
+      <find>put</find>
+      <find>MIN_TREEIFY_CAPACITY</find>
+      <find>64</find>
+      <find>GC</find>
+      <find>size</find>
+      <find>rehash</find>
+      <find>resize</find>
+      <find>state</find>
+      <find>N</find>
+      <find>panduan</find>
+      <find>time</find>
+      <find>compareTo</find>
+      <find>TREEIFY_THRESHOLD</find>
+      <find>arry</find>
+      <find>datas</find>
+      <find>SingletonDemo5</find>
+      <find>res</find>
+      <find>sort</find>
+      <find>index</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>max</replace>
+      <replace>arr</replace>
+      <replace>re</replace>
+      <replace>Single</replace>
+      <replace>r</replace>
+      <replace>tt</replace>
+      <replace>deque</replace>
+      <replace>cur</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\MySQL\mysql-connector-java-5.1.44-bin.jar</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectId" id="1QXvrRKsE5SyiXvgBUA12Ya5TRB" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>IconsUsabilityLintAndroid</id>
+          </State>
+          <State>
+            <id>Internationalization</id>
+          </State>
+          <State>
+            <id>InternationalizationJava</id>
+          </State>
+          <State>
+            <id>InternationalizationLintAndroid</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>UsabilityLintAndroid</id>
+          </State>
+          <State>
+            <id>WebSocket</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/java_work/src/Companies/XYNum.java&#10;te&#9;FILE&#9;file://D:/java_work/src/ExperienceOfferTest2/Test.java" />
+    <property name="ToolWindowCoverage.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562498767824" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../测试" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\27124\Desktop\java_work\src" />
+      <recent name="D:\java_work\src\HomeWork" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ConcurrentProgramme.singleton.DCLDoubleCheck" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\xuyangyang\Desktop\许阳电脑\java项目\java_work\src\Companies\Else" />
+      <recent name="D:\java_work\src\HomeWork" />
+      <recent name="D:\java_work\src\ExperienceOfferTest" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Work">
+    <configuration name="FPMinning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="scu.ntci.jh.fptree.FPMinning" />
+      <module name="test2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scu.ntci.jh.fptree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FpMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="scu.ntci.jh.fpmax.FpMax" />
+      <module name="test2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scu.ntci.jh.fpmax.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Threee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="测试.Threee" />
+      <module name="test2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="测试.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Work" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="测试.Work" />
+      <module name="test2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="测试.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fptest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fpmming.fptest" />
+      <module name="test2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fpmming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Work" />
+      <item itemvalue="Application.FpMax" />
+      <item itemvalue="Application.FPMinning" />
+      <item itemvalue="Application.fptest" />
+      <item itemvalue="Application.Threee" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Work" />
+        <item itemvalue="Application.Threee" />
+        <item itemvalue="Application.fptest" />
+        <item itemvalue="Application.FPMinning" />
+        <item itemvalue="Application.FpMax" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08a1a29a-9efc-409b-a926-6b88f79950c1" name="Default Changelist" comment="" />
+      <created>1539740219822</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539740219822</updated>
+      <workItem from="1539740230607" duration="10784000" />
+      <workItem from="1539822809392" duration="18845000" />
+      <workItem from="1539912847044" duration="15063000" />
+      <workItem from="1540024408280" duration="8315000" />
+      <workItem from="1540081411630" duration="6417000" />
+      <workItem from="1540167786257" duration="21137000" />
+      <workItem from="1540254299583" duration="9802000" />
+      <workItem from="1540340205417" duration="14845000" />
+      <workItem from="1540426221875" duration="15112000" />
+      <workItem from="1540517183137" duration="15982000" />
+      <workItem from="1540686548668" duration="12352000" />
+      <workItem from="1540773291170" duration="14484000" />
+      <workItem from="1540858294866" duration="13821000" />
+      <workItem from="1540943965384" duration="47091000" />
+      <workItem from="1542281441572" duration="8310000" />
+      <workItem from="1542325982842" duration="22766000" />
+      <workItem from="1542501882077" duration="22287000" />
+      <workItem from="1542678261696" duration="20930000" />
+      <workItem from="1542766530381" duration="15514000" />
+      <workItem from="1542794073847" duration="598000" />
+      <workItem from="1542853689991" duration="10627000" />
+      <workItem from="1543202164378" duration="1379000" />
+      <workItem from="1543215204012" duration="2829000" />
+      <workItem from="1543218128903" duration="5899000" />
+      <workItem from="1543308077031" duration="5871000" />
+      <workItem from="1543827470292" duration="5796000" />
+      <workItem from="1543892805870" duration="4182000" />
+      <workItem from="1543980400792" duration="5509000" />
+      <workItem from="1544061803555" duration="8573000" />
+      <workItem from="1544149410920" duration="8427000" />
+      <workItem from="1544423993911" duration="4689000" />
+      <workItem from="1544495128339" duration="1981000" />
+      <workItem from="1544585841916" duration="3155000" />
+      <workItem from="1544663241632" duration="6065000" />
+      <workItem from="1544703118522" duration="599000" />
+      <workItem from="1544757618414" duration="10196000" />
+      <workItem from="1544840162765" duration="599000" />
+      <workItem from="1544842669458" duration="4073000" />
+      <workItem from="1545030327294" duration="13530000" />
+      <workItem from="1545102460025" duration="14015000" />
+      <workItem from="1545211877859" duration="3285000" />
+      <workItem from="1545276443122" duration="10881000" />
+      <workItem from="1545359230749" duration="5664000" />
+      <workItem from="1545473355406" duration="8115000" />
+      <workItem from="1545622264308" duration="23348000" />
+      <workItem from="1545795638444" duration="10062000" />
+      <workItem from="1545892138054" duration="3902000" />
+      <workItem from="1545960981581" duration="12656000" />
+      <workItem from="1546390587012" duration="9321000" />
+      <workItem from="1546429941144" duration="967000" />
+      <workItem from="1546477783092" duration="13390000" />
+      <workItem from="1546574543480" duration="6698000" />
+      <workItem from="1546592299533" duration="2013000" />
+      <workItem from="1546653271561" duration="1962000" />
+      <workItem from="1546820360770" duration="213000" />
+      <workItem from="1546843247809" duration="11472000" />
+      <workItem from="1546915089303" duration="2943000" />
+      <workItem from="1546931595507" duration="8038000" />
+      <workItem from="1546998737502" duration="9329000" />
+      <workItem from="1547197032207" duration="2946000" />
+      <workItem from="1547365799800" duration="159000" />
+      <workItem from="1547368485935" duration="1674000" />
+      <workItem from="1547518450030" duration="4225000" />
+      <workItem from="1547718374459" duration="147000" />
+      <workItem from="1547718797551" duration="39000" />
+      <workItem from="1547727225328" duration="30000" />
+      <workItem from="1547776820408" duration="6700000" />
+      <workItem from="1548031905704" duration="6016000" />
+      <workItem from="1548056875902" duration="22000" />
+      <workItem from="1548069974578" duration="4146000" />
+      <workItem from="1548118846919" duration="7912000" />
+      <workItem from="1548206230027" duration="4984000" />
+      <workItem from="1548244319497" duration="1076000" />
+      <workItem from="1548289455552" duration="3865000" />
+      <workItem from="1548403540809" duration="667000" />
+      <workItem from="1548665220031" duration="1985000" />
+      <workItem from="1550319561813" duration="14006000" />
+      <workItem from="1550564104040" duration="6076000" />
+      <workItem from="1550632017011" duration="33000" />
+      <workItem from="1550646692766" duration="850000" />
+      <workItem from="1550647788820" duration="423000" />
+      <workItem from="1550649279020" duration="1628000" />
+      <workItem from="1550665899130" duration="93000" />
+      <workItem from="1550666333859" duration="1896000" />
+      <workItem from="1550668608180" duration="605000" />
+      <workItem from="1550709550513" duration="206000" />
+      <workItem from="1550740201647" duration="2217000" />
+      <workItem from="1550884394820" duration="1281000" />
+      <workItem from="1551184977339" duration="4312000" />
+      <workItem from="1551347295485" duration="653000" />
+      <workItem from="1551402640079" duration="7626000" />
+      <workItem from="1551582187742" duration="7021000" />
+      <workItem from="1551678420109" duration="4934000" />
+      <workItem from="1551748267907" duration="8491000" />
+      <workItem from="1551851703658" duration="7285000" />
+      <workItem from="1551919010139" duration="20320000" />
+      <workItem from="1552263509276" duration="11928000" />
+      <workItem from="1552351824217" duration="38362000" />
+      <workItem from="1552815077262" duration="6122000" />
+      <workItem from="1552890327124" duration="16899000" />
+      <workItem from="1553062391651" duration="8168000" />
+      <workItem from="1553073378413" duration="18000" />
+      <workItem from="1553150477117" duration="5410000" />
+      <workItem from="1553216819347" duration="15850000" />
+      <workItem from="1553493668915" duration="5930000" />
+      <workItem from="1553501891282" duration="4970000" />
+      <workItem from="1553513406520" duration="41924000" />
+      <workItem from="1553732334411" duration="2449000" />
+      <workItem from="1553739382421" duration="12700000" />
+      <workItem from="1553838829771" duration="6539000" />
+      <workItem from="1553997112194" duration="14740000" />
+      <workItem from="1554082458331" duration="25984000" />
+      <workItem from="1554259044107" duration="10330000" />
+      <workItem from="1554291324998" duration="6472000" />
+      <workItem from="1554617671627" duration="4323000" />
+      <workItem from="1554705571586" duration="4326000" />
+      <workItem from="1554802667648" duration="14371000" />
+      <workItem from="1561106106474" duration="16656000" />
+      <workItem from="1561379637397" duration="2075000" />
+      <workItem from="1561432211855" duration="25161000" />
+      <workItem from="1561703070717" duration="2926000" />
+      <workItem from="1561775543252" duration="3232000" />
+      <workItem from="1561878111908" duration="39137000" />
+      <workItem from="1562223165470" duration="7706000" />
+      <workItem from="1562308202796" duration="18700000" />
+      <workItem from="1562572970903" duration="67641000" />
+      <workItem from="1563869181904" duration="18280000" />
+      <workItem from="1564132720833" duration="1794000" />
+      <workItem from="1564296247184" duration="20157000" />
+      <workItem from="1564448744165" duration="39141000" />
+      <workItem from="1565061110041" duration="39277000" />
+      <workItem from="1565508558754" duration="5417000" />
+      <workItem from="1565520780930" duration="8639000" />
+      <workItem from="1565529779286" duration="30633000" />
+      <workItem from="1565874047335" duration="77645000" />
+      <workItem from="1566384842231" duration="39934000" />
+      <workItem from="1566723643037" duration="23302000" />
+      <workItem from="1567416485767" duration="2362000" />
+      <workItem from="1567496368953" duration="8827000" />
+      <workItem from="1567684735802" duration="3722000" />
+      <workItem from="1567929964822" duration="24226000" />
+      <workItem from="1568550455896" duration="713000" />
+      <workItem from="1568630176751" duration="1878000" />
+      <workItem from="1568881934901" duration="6086000" />
+      <workItem from="1569243597076" duration="3973000" />
+      <workItem from="1569380925445" duration="6740000" />
+      <workItem from="1570620838376" duration="259000" />
+      <workItem from="1573613555664" duration="315000" />
+      <workItem from="1573613957325" duration="199000" />
+      <workItem from="1575459865586" duration="8377000" />
+      <workItem from="1575544347219" duration="24440000" />
+      <workItem from="1575621165134" duration="15749000" />
+      <workItem from="1575708679706" duration="4717000" />
+      <workItem from="1575855476599" duration="2014000" />
+      <workItem from="1575857626717" duration="40000" />
+      <workItem from="1575876011231" duration="4210000" />
+      <workItem from="1575880282308" duration="110000" />
+      <workItem from="1575897874198" duration="1487000" />
+      <workItem from="1576414022092" duration="486000" />
+      <workItem from="1576415533188" duration="701000" />
+      <workItem from="1576476392075" duration="14000" />
+      <workItem from="1578744201475" duration="558000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest/SortFunction.java</url>
+          <line>80</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest/Power.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest/KthNodeFromEnd.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest/KthNodeFromEnd.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest/ListNode.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest/StackPushPopOrder.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest/PathInTree.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest/PathInTree.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest/PathInTree.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest/ListNode.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest/ListNodeFunction.java</url>
+          <line>100</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest/MergeSortedLists.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest/ConvertBinarySearchTree.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest/MoreThanHalfNumber.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest/MoreThanHalfNumber.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest/SortFunction.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest/GreatestSunOfSubarray.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest/SortArrayForMinNumber33.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest/UglyNumber34.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest/FristNotRepeatingChar.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest/InversePairs36.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest/FristCommonNodesInLists.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest/FristCommonNodesInLists.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest/NumberOfKey38.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest/NumbersAppearOnce40.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest/TwoNumberWithSum41_1.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest/ReverseWordsInSentence42_2.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest/ReverseWordsInsentence42_1.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest/ContinousCards.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest/LastNumberInCircle.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest/LastNumberInCircle.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest/StringToInt49.java</url>
+          <line>81</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest/StringToInt49.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest/DuplicationInArray.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest/RegularExpressionMatching.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest/RegularExpressionMatching.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest/DeleteDuplicatedListNode.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest/PrintTreeInLines.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest/StreamMedian.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest/StreamMedianHeap.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest/MaxInSlidingWindow.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest/SerializeBinaryTrees.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/MinimumDepthOfTree.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/ReversePolishNotation2.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/ReversePolishNotation2.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/MaxPoints3.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="173" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/SortLinkList4.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="175" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/InsertSortLinkList5.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="182" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/PostOrderTree6.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="184" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/ReorderList_7.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="187" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/A12CopyRandomList.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="188" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/A12CopyRandomList.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="190" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/A16GasStation.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="191" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/A18sumNumbers.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="192" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/A19findLadders.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="193" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/A19findLadders.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="204" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HomeWork/HashtableStudy.java</url>
+          <line>143</line>
+          <option name="timeStamp" value="206" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/A20isPalindrome.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="208" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/A24generate.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="209" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/A28pathSum.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="210" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HomeWork/TreeOrder.java</url>
+          <line>156</line>
+          <option name="timeStamp" value="214" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/A30LinkPartition.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="223" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/A31isSameTree.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="224" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest2/A03_二维数组中查找.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="229" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest2/A04_替换空格.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="234" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest2/A06重建二叉树.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="238" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest2/A17_MergeSortedList.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="239" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest2/A18_树的子结构.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="240" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest2/A22_栈的压入和弹出序列.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="241" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest2/A25_二叉树中和为某一值的路径.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="247" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest2/A26_复杂链表的复制.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="248" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest2/A27_二叉树转为双向链表.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="255" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest2/A28_字符串的全排列.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="257" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest2/A29_数组中出现次数大于长度一半的数.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="260" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest2/Test.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="262" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest2/A32_NumberOf1Between1AndN_Solution.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="265" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest/NumberOf1.java</url>
+          <line>93</line>
+          <option name="timeStamp" value="270" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest2/A34_GetUglyNumber_Solution.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="272" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest2/A35_FirstNotRepeatingChar.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="274" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest/InversePairs36.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="277" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest2/A38_GetNumberOfK.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="280" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest2/A42_FindContinuousSequence.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="285" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest2/A42_2_FindNumbersWithSum.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="286" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest2/A42_LeftRotateString.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="287" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest2/A42_ReverseSentence.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="290" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest2/A44_isContinuous.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="302" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest2/A45_LastRemaining_Solution.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="307" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest2/A49_StrToInt.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="308" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest2/A51_duplicate.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="312" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest2/A55_EntryNodeOfLoop.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="315" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest2/A57_deleteDuplication.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="317" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest2/A64_GetMedian.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="318" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/RotateRight.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="333" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HomeWork/partition.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="349" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HomeWork/MinCut.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="352" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HomeWork/IInterleave.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="354" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HomeWork/IInterleave.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="357" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HomeWork/LevelOrderBottom.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="359" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/deleteDuplicates.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="361" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/RestoreIpAddresses.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="365" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/Subsets.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="366" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/Combine.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="368" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/Combine.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="371" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/MinWindow.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="372" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/SetZeroes.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="375" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/MinDistance.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="376" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/MinWindow.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="378" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/inorderTraversal.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="380" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Companies/Else/RemoveDuplicates.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="393" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Companies/Else/MaxLudeng.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="397" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Companies/Else/Schooltime.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="409" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Companies/Else/Roll.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="411" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Companies/Else/ABC.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="413" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Companies/Else/River.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="417" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Companies/Else/PeopleHight.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="419" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Companies/Else/TreeColor.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="420" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Companies/Else/NumK.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="424" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Companies/Else/SelectMFromN.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="425" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Companies/Else/InverePairs.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="429" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/JDBCProgramme/Anagrams.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="436" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Companies/Else/Pailie.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="437" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Companies/Else/MinK.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="438" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Companies/Else/Serialize.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="439" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Companies/Else/FindMid.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="445" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Companies/Else/NoRecuresive.java</url>
+          <line>82</line>
+          <option name="timeStamp" value="450" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Companies/Else/TreeSumZero.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="451" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Companies/Else/TreeSumZero.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="454" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Companies/Else/TreeSumLeast.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="460" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/AddListNode.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="466" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/longestSubstringWithoutRepeating.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="472" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Companies/YuanFuDao/StringAdd.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="475" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/Palindrome.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="477" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HomeWork/GuiBingSort.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="479" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/重要算法/各种方法快排.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="480" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest2/A41_FindNumsAppearOnce.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="482" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Companies/YuanFuDao/DeleteCommonNode.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="483" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/重要算法/最长递增子序列.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="484" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Companies/ToutTiao/Three.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="491" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/MinPath.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="492" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/RotateLinkList.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="494" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/RotateLinkList.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="495" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Companies/KeDaXUnFei/One.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="509" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/面试常见/根节点到叶子节点的最长路径.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="519" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Companies/Zoom/One.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="520" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest2/A36_InversePairs.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="521" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Companies/QQ/Five.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="532" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest2/A14_将奇数移到偶数前面相对位置不变.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="539" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/测试/二叉搜索树转换为双向链表.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="540" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/测试/出现次数超过数组长度的一半.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="541" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/二叉树的最大宽度662.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="545" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/二叉树的最大宽度662.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="547" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/测试/数字在排序数组中出现的次数.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="552" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/数组中每个元素最多出现两次.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="553" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/数组中每个元素最多出现两次.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="554" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/最短的包含所有字符的字串.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="556" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/面试常见/红白蓝三色旗问题.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="560" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Companies/Kuaishou/Three.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="573" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/以k间隔翻转链表.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="583" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/下一个全排列.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="585" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/下一个全排列.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="586" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Companies/xiaohongshu/Two.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="593" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/返回符合规定的括号序列.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="595" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Companies/Dianxin/Two.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="608" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Companies/XiaoMi/One.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="623" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Companies/yuewen/Two.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="625" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/测试/Two.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="627" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/重要算法/使用value对hashMap排序.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="628" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/测试/Threee.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="629" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest/KthNodeInBST.java</url>
+          <line>25</line>
+          <properties class="ExperienceOfferTest.KthNodeInBST" method="KthNode">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest/SerializeBinaryTrees.java</url>
+          <line>44</line>
+          <properties class="ExperienceOfferTest.SerializeBinaryTrees" method="Deserialize">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="163" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Companies/Else/PrintNum.java</url>
+          <line>10</line>
+          <properties class="Companies.Else.PrintNum" method="fun">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="421" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ExperienceOfferTest2/A11_求数的n次方.java</url>
+          <line>26</line>
+          <properties class="ExperienceOfferTest2.A11_求数的n次方" method="PowerWithUnsignedExponent">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="527" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="result" />
+        <watch expression="curValue" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/test2$ChangeTreeToSortLIst.ic" NAME="ChangeTreeToSortLIst Coverage Results" MODIFIED="1564718906647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ImportantAlgorithm.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/test2$SingleListQuick.ic" NAME="SingleListQuick Coverage Results" MODIFIED="1563195560627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ImportantAlgorithm.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/test2$WordBreak2.ic" NAME="WordBreak2 Coverage Results" MODIFIED="1565513204793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Leetcode.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/test2$.ic" NAME="将字符串分割为词组 Coverage Results" MODIFIED="1568018227089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Leetcode.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/test2$PrintMatrix.ic" NAME="PrintMatrix Coverage Results" MODIFIED="1563520416132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Companies.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/test2$Pailie.ic" NAME="Pailie Coverage Results" MODIFIED="1563691915326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Companies.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/test2$A36_InversePairs.ic" NAME="A36_InversePairs Coverage Results" MODIFIED="1566045142487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ExperienceOfferTest2.*</FILTER>
+    </SUITE>
+  </component>
+</project>
